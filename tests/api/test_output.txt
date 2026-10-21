@@ -15,4 +15,4 @@ E   IndexError: list index out of range
 =========================== short test summary info ============================
 ERROR tests/api/test_docker_endpoints.py - IndexError: list index out of range
 !!!!!!!!!!!!!!!!!!!! Interrupted: 1 error during collection !!!!!!!!!!!!!!!!!!!!
-========================= 1 warning, 1 error in 0.40s ==========================
+=============================== 1 error in 0.27s ===============================
